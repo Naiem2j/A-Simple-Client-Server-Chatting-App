@@ -1,7 +1,3 @@
-Here is your **complete GitHub-ready `README.md` file**, fully formatted, clean, professional, and Windows-friendly.
-
-You can **copy–paste this directly** into your GitHub repository.
-
 ---
 
 # **A Simple Client–Server Chatting Application**
@@ -177,13 +173,3 @@ For production, add:
 * Database for storing chat history
 
 ---
-
-## 📄 Include These Files in Your GitHub Repo
-
-✔ `server_gui_multi.py`
-✔ `client_gui_multi.py`
-✔ `uploads/` folder
-✔ This `README.md`
-
----
-
